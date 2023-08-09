@@ -11,6 +11,7 @@ I will be documenting my daily progress and code solutions in this repository. Y
 
 1. [Day 1](Day_1/): Basic Recursions.
 2. [Day 2](Day_2/): Sorting Techniques.
+3. [Day 3](Day_3/): Array (easy).
 
 ## Rules
 
