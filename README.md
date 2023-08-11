@@ -13,6 +13,7 @@ I will be documenting my daily progress and code solutions in this repository. Y
 2. [Day 2](Day_2/): Sorting Techniques.
 3. [Day 3](Day_3/): Array (easy).
 4. [Day 4](Day_4/): Array (easy).
+5. [Day 5](Day_5/): Strings (easy).
 
 ## Rules
 
