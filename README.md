@@ -14,6 +14,7 @@ I will be documenting my daily progress and code solutions in this repository. Y
 3. [Day 3](Day_3/): Array (easy).
 4. [Day 4](Day_4/): Array (easy).
 5. [Day 5](Day_5/): Strings (easy).
+6. [Day 6](Day_6/): Array (easy).
 
 ## Rules
 
